@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 Simulador de planificación de procesos SIGET
-Autor: (Tu nombre)
-Versión completa 2025
+
 
 Implementa:
 - Round Robin (con Bloqueado)
@@ -144,3 +143,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
